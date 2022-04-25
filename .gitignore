@@ -57,5 +57,6 @@ buck-out/
 *.jsbundle
 
 # Ruby / CocoaPods
-/ios/Pods/
+# warnings in cloned project, commit pods and check...
+#/ios/Pods/
 /vendor/bundle/

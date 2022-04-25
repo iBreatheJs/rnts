@@ -1,0 +1,6 @@
+module Pods_rnts {
+  umbrella header "Pods-rnts-umbrella.h"
+
+  export *
+  module * { export * }
+}
